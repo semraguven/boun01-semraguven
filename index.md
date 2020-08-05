@@ -1,4 +1,4 @@
 ## Progress Journal-Semra Güven
 Here you can find my assignments and projects for IE48A.
 ### Week-1
-[Rmarkdown Assignment](file:///Users/semraguven/Desktop/Untitled.html)
+[Rmarkdown Assignment](https://semraguven.github.io/file:///Users/semraguven/Rmarkdown1.html)

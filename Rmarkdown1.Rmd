@@ -1,0 +1,16 @@
+---
+title: "Rmarkdown Assignmet"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semra Güven
+### 04/08/2020
+
+I am a full time math teacher at Robert College and a masters student at Bogazici University, Science and Mathematics Education. I am interested in using data analysis and visualisations to solve systems problems. 
+
+
+
